@@ -5,6 +5,7 @@ I am a Computer Science undergraduate at the University of Michigan (Class of 20
 
 ## Technical Skills
 **Languages:** Python, C, C++
+
 **Core Knowledge:** Data structures and algorithms, object-oriented programming
 **Tools:** Git/GitHub, Linux/command line, Makefiles
 **Areas of Interest:** Software engineering, full-stack web development, data science, artificial intelligence, machine learning, quantum computing, blockchain
