@@ -30,4 +30,16 @@ As a freshman, I am actively expanding my knowledge in:
 - Reach out if you have opportunities for a motivated freshman developer
 *(See pinned repositories for code samples and documentation.)*
 I am committed to learning from experienced developers and contributing to teams where I can grow while adding value. Every project is a learning opportunity, and I approach each challenge with curiosity and determination.
-# Current Focus
+# Opportunities
+I am seeking:
+
+- Summer 2026 internships in software engineering, data science, technology, or related fields
+- Open-source collaboration opportunities
+- Mentorship from experienced engineers and researchers
+
+*Currently open to internships, collaborative projects, and learning opportunities!*
+
+# Contact
+
+**LinkedIn:** [https://www.linkedin.com/in/samay-shah-19a4911b0/]
+**Email:** [samayms@umich.edu]
