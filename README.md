@@ -38,5 +38,5 @@ Motivated Computer Science student at the University of Michigan with strong fou
 - Excited to continue learning, building, and contributing to impactful projects.  
 
 ## Contact  
-- **LinkedIn:** [https://www.linkedin.com/in/samay-shah-19a4911b0/](https://www.linkedin.com/in/samay-shah-19a4911b0/)  
+- **LinkedIn:** [https://www.linkedin.com/in/samayms/](https://www.linkedin.com/in/samayms/)  
 - **Email:** [samayms@umich.edu](mailto:samayms@umich.edu)  
